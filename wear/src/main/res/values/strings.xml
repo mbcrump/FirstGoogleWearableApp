@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Wearable Test</string>
+    <string name="app_name">Wearable Tip</string>
     <string name="hello_round">Hello Round World!</string>
     <string name="hello_square">Hello Square World!</string>
     <string name="Button_Text">Another?</string>

@@ -34,10 +34,10 @@ public class MainActivity extends Activity {
     }
 
     private void startSpeechRecognition() {
-        // Create an intent to start the Speech Recognizer
+        //Start the Speech Recognizer
         Intent intent = new Intent(RecognizerIntent.ACTION_RECOGNIZE_SPEECH);
         intent.putExtra(RecognizerIntent.EXTRA_LANGUAGE_MODEL, RecognizerIntent.LANGUAGE_MODEL_FREE_FORM);
-        // Start the activity
+        // Start the Activity
         startActivityForResult(intent, SPEECH_RECOGNIZER_REQUEST_CODE);
     }
 
