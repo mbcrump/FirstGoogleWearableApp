@@ -44,7 +44,6 @@ public class MainActivity extends Activity {
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         if (requestCode == SPEECH_RECOGNIZER_REQUEST_CODE) {
-            // When the speech recognizer finishes its work, Android invokes this callback with requestCode equal to SPEECH_RECOGNIZER_REQUEST_CODE
             if (resultCode == RESULT_OK) {
                 List<String> results = data.getStringArrayListExtra(RecognizerIntent.EXTRA_RESULTS);
 
@@ -64,8 +63,6 @@ public class MainActivity extends Activity {
                 catch(NumberFormatException ex) {
                     mTextView.setText("Enter a whole number!");
                 }
-
-
             }
         }
         super.onActivityResult(requestCode, resultCode, data);
