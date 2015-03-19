@@ -5,6 +5,10 @@ by: [Michael Crump](http://twitter.com/mbcrump)
 
 The original blog post for this article can be found [here](http://developer.telerik.com/featured/build-your-first-google-wear-app/).
 
+Below is a demo:
+
+![image](https://github.com/mbcrump/FirstGoogleWearableApp/blob/master/demo.gif)
+
 ####Here is my contact info
 
 [Twitter](http://twitter.com/mbcrump)
