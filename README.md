@@ -9,6 +9,12 @@ Below is a demo:
 
 ![image](https://github.com/mbcrump/FirstGoogleWearableApp/blob/master/demo.gif)
 
+## Also available on the Google Play Store
+App Name                   | Describe                  | Major Language             | Download
+:------------------------: | :------------------------ | :------------------------: | :------------------------:
+[Voice Activated Tip Calculator](https://github.com/mbcrump/FirstGoogleWearableApp) | This Google Wear app includes voice recognition that will calculate a tip. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=net.michaelcrump.voicetipcalculator)
+
+
 ####Here is my contact info
 
 [Twitter](http://twitter.com/mbcrump)
